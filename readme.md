@@ -1,4 +1,4 @@
-# Library Management System
+# Comments
 
 Well, this is a 2000+ lines of code, the amount of errors i got, the time i spent to search for functions 
 which are spread across the field is inexplicable. Should spend some tie in organizing the code from now on. 
